@@ -16,6 +16,7 @@ public:
     double funcion3(double);
     double funcion4(double);
     double funcion5(double);
+
 };
 
 
